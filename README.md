@@ -1,6 +1,6 @@
 # Eatwise_Bangkit-Capstone-Project
 ### Your Vegan Diet Journal & Recipe Explorer
-
+&nbsp;
 ## 🙋 Meet Our Members
 Team ID: CH2-PS119
 | Member | Student ID | Path | University | Status |
