@@ -7,7 +7,7 @@ Team ID: CH2-PS119
 |----------|----------|----------|----------|----------|
 | Nauval Arya Raihasa | M180BSY0057 | Machine Learning | Universitas Airlangga | ✅ Active
 | Shavira Mala Tsania | M180BSX0610 | Machine Learning | Universitas Airlangga | ✅ Active
-| ~~Algio Wijaya Artha~~   | ~~M004BSY0740~~ | ~~Machine Learning~~ | ~~Institut Teknologi Sepuluh Nopember~~ | $${\color{red}Inactive}$$
+| Algio Wijaya Artha | M004BSY0740 | Machine Learning | Institut Teknologi Sepuluh Nopember | ⚠️Less Active |
 | Fathurrahman Syarief | C180BSY3043 | Cloud Computing | Universitas Airlangga | ✅ Active |
 | Mochammad Yoga Firnanda | C296BSY3870 | Cloud Computing | UPN "Veteran" Jawa Timur | ✅ Active |
 | Dwi Mega Hutami | A294BSX2425 | Mobile Development | Universitas Pembangunan Jaya | ✅ Active |
